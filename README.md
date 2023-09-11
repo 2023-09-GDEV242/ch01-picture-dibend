@@ -1,6 +1,6 @@
 # Ch01-Mountains
  
-### By David DiBenedetto
+### By David DiBenedetto, Michael Kšlling, and David J. Barnes
 
 ### Made with BlueJ
 
